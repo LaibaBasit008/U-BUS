@@ -1,0 +1,21 @@
+READ BEFORE EXECUTION
+to run the console :
+
+1. while registering , enter a space character first when typing the city and the password.
+
+2. For sign in, press enter a few times after typing the password.
+
+3. whenever a question is asked by the console and nothing is mentioned, answer by typing either y or n.
+
+4. If the console stops running in the middle of execution, please run the console again to solve this problem.
+
+5. While installing the bus, make sure that the stop is the same as the customer's location at the from info is
+ the same as customer's city, only then the bus info will be retrieved for that particular customer.
+
+6. location is a char value.
+
+7. for convienience use following accounts
+
+ email :bb@gmail.com password: poodle (driver)
+
+email: aa@gmail.com pasword: poodle (customer)
